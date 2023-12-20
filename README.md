@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [x] Added a color background to stats
+* [x] Modified background color of stats box in style.css
 
 ## Video Walkthrough
 
